@@ -17,7 +17,7 @@
             <th colspan="2">Nama Pelanggan</th>
         </tr>        
             <tr>
-                <td><label for="nama">Nama Pegawai</label></td>
+                <td><label for="nama">Nama Pelanggan</label></td>
                 <td><input type="text" name="nama" id="nama"></td>
             </tr>
             <tr>
